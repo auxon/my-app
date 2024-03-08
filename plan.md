@@ -1,0 +1,1 @@
+https://github.com/yours-org/frontend.git
